@@ -1,5 +1,6 @@
 # Telco/Service Provider OSS/Networks Spaghetti
 
-![Alt text](./Tier1SPSpaghetti.svg)
-<img src="./Tier1SPSpaghetti.svg">
+Access / Routing / Switching / Transport for Broadband services as well as wireless (4G/5G)
+
+![Spaghetti](./Tier1SPSpaghetti.svg)
 
